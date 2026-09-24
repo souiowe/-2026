@@ -23,7 +23,7 @@
 
 | Что | Куда положить | Как называется в коде |
 |---------------|--------------|---------------------------------------------------------|
-| Главное видео | `video/hero.mp4` | `<video class="osn__video" src="./video/hero.mp4">` |
+| Главное видео | `video/grok-video-a9d7a7aa-fee2-4cb0-8ea4-efb037084303.mp4` | `<video class="osn__video" src="./video/grok-video-a9d7a7aa-fee2-4cb0-8ea4-efb037084303.mp4" autoplay muted loop playsinline></video>` |
 | Фото «Озеро» (карточка 1) | `img/photo_2026-09-03_17-08-42.jpg` | `.card__image img` |
 | Фото «Ремонт» (карточка 2) | `img/remont.jpg` | `.card__image img` |
 | Фото «Стрит» (карточка 3) | `img/стрит.jpg` | `.card__image img` |
