@@ -25,11 +25,6 @@ img {
     vertical-align: middle;
 }
 
-a {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-
 button {
     font: inherit;
     color: rgb(0, 0, 0);
